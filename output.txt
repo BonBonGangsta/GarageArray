@@ -1,0 +1,32 @@
+JAV001 is parked sir
+JAV002 is parked sir
+JAV003 is parked sir
+JAV004 is parked sir
+JAV005 is parked sir
+JAV001 has departed from the garage with 0 total number of moves 
+JAV004 has departed from the garage with 0 total number of moves 
+JAV006 is parked sir
+JAV007 is parked sir
+JAV008 is parked sir
+JAV009 is parked sir
+JAV010 is parked sir
+JAV011 is parked sir
+JAV012 is parked sir
+Sorry JAV013, the Garage is full!
+Sorry JAV015, the Garage is full!
+JAV006 has departed from the garage with 0 total number of moves 
+JAV015 is not in this garage
+JAV013 is not in this garage
+JAV005 has departed from the garage with 1 total number of moves 
+JAV016 is parked sir
+JAV010 has departed from the garage with 0 total number of moves 
+JAV002 has departed from the garage with 4 total number of moves 
+JAV016 has departed from the garage with 0 total number of moves 
+JAV014 is not in this garage
+JAV009 has departed from the garage with 2 total number of moves 
+JAV003 has departed from the garage with 6 total number of moves 
+JAV008 has departed from the garage with 3 total number of moves 
+JAV007 has departed from the garage with 4 total number of moves 
+JAV012 has departed from the garage with 1 total number of moves 
+JAV011 has departed from the garage with 2 total number of moves 
+We are closed for the day! Thank you!
