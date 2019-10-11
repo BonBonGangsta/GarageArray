@@ -1,7 +1,4 @@
-/*
- * I certify that this is all my original work.
-    Byron De Paz 3999061
- */
+
 package garagever2;
 
 /**
