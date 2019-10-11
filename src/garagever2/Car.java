@@ -1,7 +1,4 @@
-/*
- *  I certify that this is my original work.
- *  Byron De Paz PID 3999061
- */
+
 package garagever2;
 
 import java.util.Random;
